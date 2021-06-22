@@ -20,7 +20,7 @@ collections:
       - { label: 'Author',
           name: 'author',
           widget: 'relation',
-          collection: 'author',
+          collection: 'authors',
           display_fields: [display_name],
           search_fields: [display_name],
           value_field: 'name',
